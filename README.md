@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in Mixed Reality and wearable vision, as well as creating a Unity-based planogram modeling tool.  <br>👯 I’m looking to collaborate on projects that merge AI with 3D graphics or AR applications.  <br>🤝 I’m looking for help with advanced AI concepts and integrating them into AR/VR projects.  <br>🌱 I’m currently learning about synthetic data generation for 3D object detection, Unity development, and human-object interaction in AR environments.  <br>💬 Ask me about wearable vision, Unity for 3D modeling, or my AI learning journey!  <br>⚡ Fun fact: I enjoy exploring how creative tools like Blender can contribute to scientific visualization and AI training datasets.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-longo-876225221/) 
